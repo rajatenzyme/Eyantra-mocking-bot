@@ -1,4 +1,4 @@
-# eyantra-mocking-bot
+# Eyantra-mocking-bot | Team - eYRC#947
 Mocking Bot | Sklearn, NumPy, Pandas, Wave, Struct
 
 
@@ -10,3 +10,8 @@ Mocking Bot | Sklearn, NumPy, Pandas, Wave, Struct
 
 ## Video link :
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LIB18VKLttM/0.jpg)](https://www.youtube.com/watch?v=LIB18VKLttM)
+
+
+## Our eyantra channel
+
+https://www.youtube.com/channel/UC9WJym5PPPBNjP8ZUsOkp-w
